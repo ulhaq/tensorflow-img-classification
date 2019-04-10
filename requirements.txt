@@ -1,4 +1,5 @@
 tensorflow==1.13.1
+keras==2.2.4
 backcall==0.1.0
 bleach==3.0.2
 cycler==0.10.0
